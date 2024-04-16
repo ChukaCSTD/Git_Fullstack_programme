@@ -9,6 +9,12 @@ body{
     background-color: whitesmoke;
 }
 
+body h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .navigation{
     background-color: white;
     display: flex;
@@ -40,3 +46,5 @@ body{
     height: 50px;
     margin-top: -15px;
 }
+
+
