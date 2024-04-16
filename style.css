@@ -38,8 +38,8 @@ body h2{
 }
 
 .navigation ul li:hover a{
-    background-color: black;
-    color: aliceblue;
+    background-color: coral;
+    color: black;
 }
 
 .navigation img{
