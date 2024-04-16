@@ -16,7 +16,7 @@ body h2{
 }
 
 .navigation{
-    background-color: white;
+    background-color:antiquewhite;
     display: flex;
     justify-content: space-between;
     padding: 10px;
@@ -43,7 +43,7 @@ body h2{
 }
 
 .navigation img{
-    height: 50px;
+    height: 55px;
     margin-top: -15px;
 }
 
