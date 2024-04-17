@@ -52,8 +52,23 @@ body h2{
     width: 98%;
     background-repeat: no-repeat;
     margin: auto;
+    margin-top: 20px;
 
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.grid1{
+    display: grid;
+    grid-row: 1fr 1fr;
+    margin-top: 20px;
+    height: 100px;
+    width: 98%;
+    gap: 10px;
+}
+
+.grid1-left img{
+    /* background-size: contain; */
+    height: 400px;
 }
